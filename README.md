@@ -49,10 +49,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 *Scientific applications with GUIs and user manuals*
 
+* [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Discovery platform supporting the FlyLight and MouseLight projects
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
-* [NeuTu](https://github.com/janelia-flyem/NeuTu) - Software package for neuron reconstruction and visualization 
+* [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
+* [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
 * [RAISIN](https://raisin.janelia.org) - Web site for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
 
