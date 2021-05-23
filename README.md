@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [Branson Lab](https://github.com/kristinbranson)
 * [FlyEM](https://github.com/janelia-flyem)
+* [FlyEM NeuPrint](https://github.com/connectome-neuprint)
 * [Funkey Lab](https://github.com/funkey)
 * [Preibisch Lab](https://github.com/PreibischLab)
 * [Saalfeld Lab](https://github.com/saalfeldlab)
@@ -20,30 +21,47 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Turaga Lab](https://github.com/TuragaLab)
 
 
-## Cloud
+## Behavior Tracking
 
-* [Burst Compute](https://github.com/JaneliaSciComp/burst-compute) - AWS service for highly parallel Lambda processing
+*Computer vision tools for animal behavior*
+
+* [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
+* [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
 
 
 ## Containerization
+
+*Tools for containerization and running containers (e.g. using Docker and Singularity)*
 
 * [Entrypoints](https://github.com/JaneliaSciComp/entrypoints) - add multiple entrypoints into a Docker container
 * [Maru](https://github.com/JaneliaSciComp/maru) - command-line tool for containerizing scientific applications
 
 
-## Scientific End-User Applications
+## Dask Ecosystem
+
+*Image processing in the Dask/Python ecosystem*
+
+* [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
+* [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
+
+
+## End-User Applications
 
 *Scientific applications with GUIs and user manuals*
 
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Software ecosystem supporting the FlyLight and MouseLight projects
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
+* [NeuTu](https://github.com/janelia-flyem/NeuTu) - Software package for neuron reconstruction and visualization 
 * [RAISIN](https://raisin.janelia.org) - Web site for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
 
 
 ## Fiji Plugins
 
+*Plugins for [Fiji](https://fiji.sc)*
+
+* [BigStitcher](https://github.com/PreibischLab/BigStitcher) - ImgLib2/BDV implementation of Stitching for large datasets
 * [ColorMIP Mask Search](https://github.com/JaneliaSciComp/ColorMIP_Mask_Search) - Fiji plugin for color depth search
 * [H5J Loader](https://github.com/JaneliaSciComp/H5J_Loader_Plugin) - Fiji plugin for loading images in lossy H5J format
 * [n5-ij](https://github.com/saalfeldlab/n5-ij) - Fiji plugin for loading and saving image data as N5 data sets
@@ -51,20 +69,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## High Performance Computing 
 
-*Libraries and APIs for high-performance scientific computing.*
+*Libraries and APIs for high-performance scientific computing on clusters and clouds.*
 
+* [Burst Compute](https://github.com/JaneliaSciComp/burst-compute) - AWS service for highly parallel Lambda processing
 * [Daisy](https://github.com/funkelab/daisy) - Block-size task scheduling for large volumes
 * [JACS](https://github.com/JaneliaSciComp/jacs-compute) - RESTful services for running jobs at scale
 * [Java LSF](https://github.com/JaneliaSciComp/java-lsf) - Java library for interacting with an HPC compute cluster running IBM Platform LSF
-
-
-## Java Ecosystem 
-
-* [N5](https://github.com/saalfeldlab/n5) - n5 file format
-* [N5 Spark](https://github.com/saalfeldlab/n5-spark) - Tools for working with N5 on a Spark cluster
-* [N5 Viewer](https://github.com/saalfeldlab/n5-viewer) - Viewer for visualizing N5 data sets
-* [Render](https://github.com/saalfeldlab/render) - RESTful services for large image transformation and rendering
-* [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
 
 
 ## Machine Learning
@@ -74,10 +84,15 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Gunpowder](https://github.com/funkey/gunpowder) - Library for machine learning on multi-dimensional images
 
 
-## MATLAB Ecosystem
+## N5 Ecosystem 
 
-* [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
-* [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
+*Image processing tools in the N5/[Imglib2](https://github.com/imglib/imglib2) ecosystem*
+
+* [N5](https://github.com/saalfeldlab/n5) - n5 file format
+* [N5 Spark](https://github.com/saalfeldlab/n5-spark) - Tools for working with N5 on a Spark cluster
+* [N5 Viewer](https://github.com/saalfeldlab/n5-viewer) - Viewer for visualizing N5 data sets
+* [Render](https://github.com/saalfeldlab/render) - RESTful services for large image transformation and rendering
+* [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
 
 
 ## Nextflow Pipelines
@@ -89,15 +104,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Nextflow Spark](https://github.com/JaneliaSciComp/nextflow-spark) - library for including Spark clusters as part of a Nextflow pipeline
 
 
-## Python Ecosystem 
+## 3D Visualization
 
-* [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
-* [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
+*Tools and libraries for 3D visualizations*
 
-
-## Visualization
-
+* [Blender Spherical Video](https://github.com/JaneliaSciComp/blender-spherical-video) - Scripts for rendering 360-degree spherical videos in Blender
 * [Janelia Unity Toolkit](https://github.com/JaneliaSciComp/janelia-unity-toolkit) - Unity game engine packages enabling animal studies in VR
+* [neuVid](https://github.com/connectome-neuprint/neuVid) - Generate connectome videos from high-level descriptions using Blender
 
 
 ## License
