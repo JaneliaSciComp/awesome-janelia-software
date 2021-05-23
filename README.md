@@ -54,6 +54,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Libraries and APIs for high-performance scientific computing.*
 
 * [Daisy](https://github.com/funkelab/daisy) - Block-size task scheduling for large volumes
+* [JACS](https://github.com/JaneliaSciComp/jacs-compute) - RESTful services for running jobs at scale
 * [Java LSF](https://github.com/JaneliaSciComp/java-lsf) - Java library for interacting with an HPC compute cluster running IBM Platform LSF
 
 
@@ -90,8 +91,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Python Ecosystem 
 
-* [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 * [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
+* [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 
 
 ## Visualization
