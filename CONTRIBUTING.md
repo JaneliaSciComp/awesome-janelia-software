@@ -12,7 +12,7 @@ When editing the list:
 - Descriptions should be clear, concise, and non-promotional
 - New categories or improvements to the existing categorization are welcome
 
-Please contribute links to libraries/projects/resources you have used or are familiar with. This will help ensure high-quality entries.
+Please only contribute links to libraries or projects you have used or are familiar with. This will help ensure high-quality entries.
 
 
 ## Quality standard
@@ -20,11 +20,11 @@ Please contribute links to libraries/projects/resources you have used or are fam
 To stay on the list, libraries/projects/resources should adhere to these quality standards:
 
 - Generally useful to the community
-- Documented so that a person unfamiliar with the project can get it working
+- Documented enough so that a person unfamiliar with the project can get it working
 - Actively maintained (even if that just means acknowledging open issues when they arise)
-- Stable or progressing toward stable
+- Open source license
 
 
 ## Reporting issues
 
-Please email or send a Slack message to Konrad Rokicki if you find anything that could be improved or have suggestions for making the list a more valuable resource. 
+If you have any suggestions for improvements, please report an issue. If you are at Janelia, you could also just send an email or Slack message to Konrad Rokicki.
