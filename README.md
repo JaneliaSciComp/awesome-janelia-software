@@ -44,6 +44,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
 * [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 
+## Data Services
+
+*Systems for handling scientific data on the web or through APIs*
+
+* [DVID](https://dvid.io) - A Connectomics data service that supports branched versioning of data and a variety of storage backends
+* [Clio](https://github.com/clio-janelia) - Software for a Connectomics website with a serverless data API service
 
 ## End-User Applications
 
