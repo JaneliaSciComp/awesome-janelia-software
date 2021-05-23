@@ -49,7 +49,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 *Scientific applications with GUIs and user manuals*
 
-* [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Software ecosystem supporting the FlyLight and MouseLight projects
+* [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Discovery platform supporting the FlyLight and MouseLight projects
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
 * [NeuTu](https://github.com/janelia-flyem/NeuTu) - Software package for neuron reconstruction and visualization 
@@ -79,7 +79,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Machine Learning
 
-* [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning for cell segmentation 
+*Libraries for training and applying machine learning models*
+
+* [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [DECODE](https://github.com/TuragaLab/DECODE) - Deep learning tool for single molecule localization microscopy (SMLM)
 * [Gunpowder](https://github.com/funkey/gunpowder) - Library for machine learning on multi-dimensional images
 
