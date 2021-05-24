@@ -62,6 +62,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
 * [RAISIN](https://raisin.janelia.org) - Web site for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
+* [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
 
 
