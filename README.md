@@ -83,8 +83,17 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Burst Compute](https://github.com/JaneliaSciComp/burst-compute) - AWS service for highly parallel Lambda processing
 * [Daisy](https://github.com/funkelab/daisy) - Block-size task scheduling for large volumes
 * [JACS](https://github.com/JaneliaSciComp/jacs-compute) - RESTful services for running jobs at scale
-* [Java LSF](https://github.com/JaneliaSciComp/java-lsf) - Java library for interacting with an HPC compute cluster running IBM Platform LSF
+* [Java LSF](https://github.com/JaneliaSciComp/java-lsf) - Java library for interacting with a HPC compute cluster running IBM Platform LSF
 
+## Julia Language Packages
+
+*Packages for the [Julia Language](https://julialang.org/)*
+* [UInt12Arrays.jl](https://github.com/JaneliaSciComp/UInt12Arrays.jl) - Handle 12-bit unsigned integers in Julia with SIMD (AVX2 and AVX512) support
+* [ImarisWriter.jl](https://github.com/JaneliaSciComp/ImarisWriter.jl) - Julia bindings for [ImarisWriter](https://github.com/imaris/ImarisWriter). See also the [Janelia development fork of ImarisWriter](https://github.com/JaneliaSciComp/ImarisWriter) as well as a [binary distribution, ImarisWriter_jll.jl,](https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl) of that fork via [BinaryBuilder.org](https://BinaryBuilder.org).
+
+*Janelia Scientific Computing also contributed to the following Julia packages.*
+* [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) - Contributed Julia support for interacting with a HPC compute cluster running IBM Platform LSF
+* [Blosc2_jll.jl](https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl) - Contributed build script for cross-compilation of [C-Blosc2](https://github.com/Blosc/c-blosc2) binaries via [BinaryBuilder.org](https://BinaryBuilder.org).
 
 ## Machine Learning
 
