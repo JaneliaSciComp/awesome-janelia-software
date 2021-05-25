@@ -106,18 +106,20 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [DECODE](https://github.com/TuragaLab/DECODE) - Deep learning tool for single molecule localization microscopy (SMLM)
 * [Gunpowder](https://github.com/funkey/gunpowder) - Library for machine learning on multi-dimensional images
+* DaCaPo(https://github.com/funkelab/dacapo/blob/attrs-dev/README.md) - Automatic parameter detection for deep learning
 
 
-## N5 Ecosystem 
+## ImgLib2, BDV and N5 Ecosystem 
 
 *Image processing tools in the N5/[Imglib2](https://github.com/imglib/imglib2) ecosystem*
 
+* [ImgLib2](https://github.com/imglib) - ImgLib2 project (lots of subprojects)
+* [BigDataViewer](https://github.com/bigdataviewer) - BigDataViewer
 * [N5](https://github.com/saalfeldlab/n5) - n5 file format
 * [N5 Spark](https://github.com/saalfeldlab/n5-spark) - Tools for working with N5 on a Spark cluster
 * [N5 Viewer](https://github.com/saalfeldlab/n5-viewer) - Viewer for visualizing N5 data sets
 * [Render](https://github.com/saalfeldlab/render) - RESTful services for large image transformation and rendering
 * [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
-
 
 ## Nextflow Pipelines
 
