@@ -106,7 +106,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [DECODE](https://github.com/TuragaLab/DECODE) - Deep learning tool for single molecule localization microscopy (SMLM)
 * [Gunpowder](https://github.com/funkey/gunpowder) - Library for machine learning on multi-dimensional images
-* DaCaPo(https://github.com/funkelab/dacapo/blob/attrs-dev/README.md) - Automatic parameter detection for deep learning
+* [DaCaPo](https://github.com/funkelab/dacapo/blob/attrs-dev/README.md) - Automatic parameter detection for deep learning
 
 
 ## ImgLib2, BDV and N5 Ecosystem 
