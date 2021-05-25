@@ -119,6 +119,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [N5 Spark](https://github.com/saalfeldlab/n5-spark) - Tools for working with N5 on a Spark cluster
 * [N5 Viewer](https://github.com/saalfeldlab/n5-viewer) - Viewer for visualizing N5 data sets
 * [Render](https://github.com/saalfeldlab/render) - RESTful services for large image transformation and rendering
+* [Hot-Knife](https://github.com/saalfeldlab/hot-knife) - ImgLib2 code for processing very large EM and Lightsheet data
 * [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
 
 ## Nextflow Pipelines
