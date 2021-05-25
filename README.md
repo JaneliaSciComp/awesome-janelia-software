@@ -41,6 +41,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 *Image processing in the Dask/Python ecosystem*
 
+* [ClusterWrap](https://github.com/GFleishman/ClusterWrap) - Library for running Dask on the Janelia cluster
 * [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
 * [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 
@@ -55,6 +56,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 *Scientific applications with GUIs and user manuals*
 
+* [BigStream](https://github.com/GFleishman/bigstream) - Distributed piecewise affine and deformable alignment for big 3D datasets
+* [CircuitSeeker](https://github.com/GFleishman/CircuitSeeker) - Distributed complex alignment tasks for big 4D datasets
+* [FishSpot](https://github.com/GFleishman/fishspot) - Fully automated PSF estimation and spot detection for punctate data (e.g. FISH spots)
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Discovery platform supporting the FlyLight and MouseLight projects
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
