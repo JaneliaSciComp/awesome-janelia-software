@@ -16,7 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Funkey Lab](https://github.com/funkey)
 * [Preibisch Lab](https://github.com/PreibischLab)
 * [Saalfeld Lab](https://github.com/saalfeldlab)
-* [Scientific Computing Software](https://github.com/JaneliaSciComp)
+* [Scientific Computing](https://github.com/JaneliaSciComp)
 * [Stringer Lab](https://github.com/MouseLand)
 * [Turaga Lab](https://github.com/TuragaLab)
 
@@ -39,17 +39,17 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## End-User Applications
 
-*Scientific applications with GUIs and user manuals*
+*Scientific applications (native or web) with GUIs and user manuals*
 
 * [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
 * [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
-* [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Discovery platform supporting the FlyLight and MouseLight projects
+* [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Data management platform supporting the FlyLight and MouseLight projects
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
-* [RAISIN](https://raisin.janelia.org) - Web site for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
+* [RAISIN](https://raisin.janelia.org) - Web application for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
 * [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
 
