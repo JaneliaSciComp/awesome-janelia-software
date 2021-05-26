@@ -22,9 +22,9 @@ To stay on the list, libraries/projects/resources should adhere to these quality
 - Generally useful to the community
 - Documented enough so that a person unfamiliar with the project can get it working
 - Actively maintained (even if that just means acknowledging open issues when they arise)
-- Open source license
+- Open source license is clearly indicated
 
 
 ## Reporting issues
 
-If you have any suggestions for improvements, please report an issue. If you are at Janelia, you could also just send an email or Slack message to Konrad Rokicki.
+If you see any errors or have any suggestions for improvements, please open an issue. If you are at Janelia, you could also just send an email or Slack message to Konrad Rokicki.
