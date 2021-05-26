@@ -56,9 +56,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Fiji Plugins
 
-*Plugins for [Fiji](https://fiji.sc)*
+*Plugins for the [Fiji](https://fiji.sc) platform for scientific image analysis*
 
-* [BigDataViewer](https://github.com/bigdataviewer) - Re-slicing browser for terabyte-sized multi-view image sequences
+* [BigDataViewer](https://github.com/bigdataviewer/bigdataviewer_fiji) - Re-slicing browser for terabyte-sized multi-view image sequences
 * [BigStitcher](https://github.com/PreibischLab/BigStitcher) - ImgLib2/BDV implementation of Stitching for large datasets
 * [ColorMIP Mask Search](https://github.com/JaneliaSciComp/ColorMIP_Mask_Search) - Fiji plugin for color depth search
 * [H5J Loader](https://github.com/JaneliaSciComp/H5J_Loader_Plugin) - Fiji plugin for loading images in lossy H5J format
@@ -94,9 +94,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Packages for the [Julia Programming Language](https://julialang.org/)*
 
 * [UInt12Arrays](https://github.com/JaneliaSciComp/UInt12Arrays.jl) - Handle 12-bit unsigned integers in Julia with SIMD (AVX2 and AVX512) support
-* [ImarisWriter](https://github.com/JaneliaSciComp/ImarisWriter.jl) - Julia bindings for [ImarisWriter](https://github.com/imaris/ImarisWriter). 
+* [ImarisWriter](https://github.com/JaneliaSciComp/ImarisWriter.jl) - Julia API for writing files in Imaris5 file format
 * [ClusterManagers](https://github.com/JuliaParallel/ClusterManagers.jl) - Contributed Julia support for interacting with IBM Platform LSF
-* [Blosc2_jll](https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl) - Contributed build script for cross-compilation of [C-Blosc2](https://github.com/Blosc/c-blosc2)
+* [Blosc2_jll](https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl) - Contributed build script for cross-compilation of C-Blosc2
 
 
 ## Machine Learning
@@ -111,7 +111,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Nextflow Pipelines
 
-*Containerized analysis pipelines that run anywhere*
+*Containerized analysis pipelines that run anywhere using the [Nextflow](https://www.nextflow.io) workflow system*
 
 * [EASI-FISH Pipeline](https://github.com/JaneliaSciComp/multifish) - Spatial transcriptomics using the EASI-FISH protocol
 * [ExM Pipeline](https://github.com/JaneliaSciComp/expansion-microscopy-pipeline) - Pipeline for analyzing ExM data with neuron/synapse segmentation
@@ -120,7 +120,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Python Libraries
 
-*Packages that can be installed with `pip` or `conda`*
+*Python packages that can be installed with `pip` or `conda`*
 
 * [BigStream](https://github.com/GFleishman/bigstream) - Distributed piecewise affine and deformable alignment for big 3D datasets
 * [CircuitSeeker](https://github.com/GFleishman/CircuitSeeker) - Distributed complex alignment tasks for big 4D datasets
