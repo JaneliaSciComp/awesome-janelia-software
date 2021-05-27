@@ -19,7 +19,7 @@ Please only contribute links to libraries or projects you have used or are famil
 
 To stay on the list, libraries/projects/resources should adhere to these quality standards:
 
-- Supports "Open Science"
+- Supports Open Science
 - Generally useful to the community
 - Documented enough so that a person unfamiliar with the project can get it working
 - Actively maintained (even if that just means acknowledging open issues when they arise)
