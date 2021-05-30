@@ -17,7 +17,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Preibisch Lab](https://github.com/PreibischLab)
 * [Saalfeld Lab](https://github.com/saalfeldlab)
 * [Scientific Computing](https://github.com/JaneliaSciComp)
-* [Stringer Lab](https://github.com/MouseLand)
+* [Stringer and Pachitariu Labs](https://github.com/MouseLand)
 * [Turaga Lab](https://github.com/TuragaLab)
 
 
@@ -42,15 +42,20 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Scientific applications (native or web) with GUIs and user manuals*
 
 * [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
+* [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
+* [Facemap](https://github.com/mouseland/facemap) - mouse facial behavior analysis
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
 * [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Data management platform supporting the FlyLight and MouseLight projects
+* [Kilosort](https://github.com/MouseLand/Kilosort) - Pipeline for spike sorting multi-site electrophysiological recordings
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
 * [RAISIN](https://raisin.janelia.org) - Web application for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
+* [Rastermap](https://github.com/mouseland/rastermap) - Non-linear manifold embedding algorithm for visualizing neural activity
 * [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
+* [Suite2p](https://github.com/mouseland/suite2p) - Pipeline for ROI detection and extraction in 2-photon recordings
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
 
 
@@ -103,7 +108,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 *Libraries for training and applying machine learning models*
 
-* [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [DECODE](https://github.com/TuragaLab/DECODE) - Deep learning tool for single molecule localization microscopy (SMLM)
 * [Gunpowder](https://github.com/funkey/gunpowder) - Library for machine learning on multi-dimensional images
 * [DaCaPo](https://github.com/funkelab/dacapo/blob/attrs-dev/README.md) - Automatic parameter detection for deep learning
