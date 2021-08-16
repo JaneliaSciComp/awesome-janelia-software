@@ -42,6 +42,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Scientific applications (native or web) with GUIs and user manuals*
 
 * [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
+* [CATMAID](https://catmaid.readthedocs.io/en/stable/) - Web application for collaborative neural circuit reconstruction and analysis
 * [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [Facemap](https://github.com/mouseland/facemap) - mouse facial behavior analysis
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
@@ -52,6 +53,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
+* [Paintera](https://github.com/saalfeldlab/paintera) - Visualization, proof-reading and manual annotation for large 3D image data
 * [RAISIN](https://raisin.janelia.org) - Web application for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
 * [Rastermap](https://github.com/mouseland/rastermap) - Non-linear manifold embedding algorithm for visualizing neural activity
 * [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
@@ -65,6 +67,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [BigDataViewer](https://github.com/bigdataviewer/bigdataviewer_fiji) - Re-slicing browser for terabyte-sized multi-view image sequences
 * [BigStitcher](https://github.com/PreibischLab/BigStitcher) - ImgLib2/BDV implementation of Stitching for large datasets
+* [BigWarp](https://github.com/saalfeldlab/bigwarp) - Pointwise deformable 2D and 3D registration of large image data
 * [ColorMIP Mask Search](https://github.com/JaneliaSciComp/ColorMIP_Mask_Search) - Fiji plugin for color depth search
 * [H5J Loader](https://github.com/JaneliaSciComp/H5J_Loader_Plugin) - Fiji plugin for loading images in lossy H5J format
 * [n5-ij](https://github.com/saalfeldlab/n5-ij) - Fiji plugin for loading and saving image data as N5 data sets
