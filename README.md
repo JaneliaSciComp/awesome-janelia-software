@@ -67,6 +67,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [BigDataViewer](https://github.com/bigdataviewer/bigdataviewer_fiji) - Re-slicing browser for terabyte-sized multi-view image sequences
 * [BigStitcher](https://github.com/PreibischLab/BigStitcher) - ImgLib2/BDV implementation of Stitching for large datasets
+* [BigWarp](https://github.com/saalfeldlab/bigwarp) - Pointwise deformable 2D and 3D registration of large image data
 * [ColorMIP Mask Search](https://github.com/JaneliaSciComp/ColorMIP_Mask_Search) - Fiji plugin for color depth search
 * [H5J Loader](https://github.com/JaneliaSciComp/H5J_Loader_Plugin) - Fiji plugin for loading images in lossy H5J format
 * [n5-ij](https://github.com/saalfeldlab/n5-ij) - Fiji plugin for loading and saving image data as N5 data sets
