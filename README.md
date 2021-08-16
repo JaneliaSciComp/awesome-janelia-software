@@ -53,6 +53,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
+* [Paintera](https://github.com/saalfeldlab/paintera) - Visualization, proof-reading and manual annotation for large 3D image data
 * [RAISIN](https://raisin.janelia.org) - Web application for *Rabies-Assisted Interrogation of Synaptic Infralimbic Networks*
 * [Rastermap](https://github.com/mouseland/rastermap) - Non-linear manifold embedding algorithm for visualizing neural activity
 * [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
