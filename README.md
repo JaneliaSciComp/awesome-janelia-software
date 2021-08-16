@@ -42,6 +42,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Scientific applications (native or web) with GUIs and user manuals*
 
 * [APT](https://github.com/kristinbranson/APT) - Animal Part Tracker
+* [CATMAID](https://catmaid.readthedocs.io/en/stable/) - Web application for collaborative neural circuit reconstruction and analysis
 * [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [Facemap](https://github.com/mouseland/facemap) - mouse facial behavior analysis
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
