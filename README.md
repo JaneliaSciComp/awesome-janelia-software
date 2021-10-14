@@ -59,6 +59,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [SongExplorer](https://github.com/JaneliaSciComp/SongExplorer) - Deep learning for acoustic signals
 * [Suite2p](https://github.com/mouseland/suite2p) - Pipeline for ROI detection and extraction in 2-photon recordings
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
+* [WaveSurfer](https://wavesurfer.janelia.org) - An application for acquiring neurophysiology data
 
 
 ## Fiji Plugins
