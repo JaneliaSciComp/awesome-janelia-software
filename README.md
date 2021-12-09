@@ -15,6 +15,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [FlyEM NeuPrint](https://github.com/connectome-neuprint)
 * [Funkey Lab](https://github.com/funkey)
 * [Preibisch Lab](https://github.com/PreibischLab)
+* [Reiser Lab](https://github.com/reiserlab)
 * [Saalfeld Lab](https://github.com/saalfeldlab)
 * [Scientific Computing](https://github.com/JaneliaSciComp)
 * [Stringer and Pachitariu Labs](https://github.com/MouseLand)
@@ -45,6 +46,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [CATMAID](https://catmaid.readthedocs.io/en/stable/) - Web application for collaborative neural circuit reconstruction and analysis
 * [Cellpose](https://github.com/MouseLand/cellpose) - Deep learning tool for cell segmentation 
 * [Facemap](https://github.com/mouseland/facemap) - mouse facial behavior analysis
+* [G4 Display Tools](https://github.com/JaneliaSciComp/G4_Display_Tools) - Collection of tools for using Modular LED Displays (4th generation)
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
 * [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Data management platform supporting the FlyLight and MouseLight projects
