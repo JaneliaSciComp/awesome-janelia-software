@@ -50,11 +50,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Facemap](https://github.com/mouseland/facemap) - mouse facial behavior analysis
 * [G4 Display Tools](https://github.com/JaneliaSciComp/G4_Display_Tools) - Collection of tools for using Modular LED Displays (4th generation)
 * [HippoSeq](https://hipposeq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse hippocampus
+* [HortaCloud](https://hortacloud.janelia.org) - Cloud-based application for collaborative neuron tracing in large sparse volumes 
 * [JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector 
 * [Janelia Workstation](https://github.com/JaneliaSciComp/workstation) - Data management platform supporting the FlyLight and MouseLight projects
 * [Kilosort](https://github.com/MouseLand/Kilosort) - Pipeline for spike sorting multi-site electrophysiological recordings
 * [neuPrint+](https://neuprint.janelia.org) - Analysis tools for connectomics
-* [NeuronBridge](https://neuronbridge.janelia.org) - EM/LM correspondence searches
+* [NeuronBridge](https://neuronbridge.janelia.org) - Web service for EM/LM neuron matching 
 * [NeuroSeq](https://neuroseq.janelia.org) - Interactive analysis tool for RNA-seq data in the mouse
 * [NeuTu](https://janelia-flyem.gitbook.io/neutu) - Software package for neuron reconstruction and visualization 
 * [Paintera](https://github.com/saalfeldlab/paintera) - Visualization, proof-reading and manual annotation for large 3D image data
@@ -102,6 +103,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
 
 
+## Janelia site-specific Software
+
+*Packages that are intended to run with access to Janelia's internal network, but could be modified to work elsewhere*
+
+* [ClusterWrap](https://github.com/GFleishman/ClusterWrap) - Python library for running Dask on the Janelia cluster
+* [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Python library for running Dask on the Janelia cluster
+* [Spark Janelia](https://github.com/JaneliaSciComp/spark-janelia) - Command line tool for running Spark on the Janelia cluster
+* [ray-janelia](https://github.com/JaneliaSciComp/ray-janelia) - Python library for running Ray on the Janelia cluster
+
+
 ## Julia Packages
 
 *Packages for the [Julia Programming Language](https://julialang.org/)*
@@ -136,8 +147,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [BigStream](https://github.com/GFleishman/bigstream) - Distributed piecewise affine and deformable alignment for big 3D datasets
 * [CircuitSeeker](https://github.com/GFleishman/CircuitSeeker) - Distributed complex alignment tasks for big 4D datasets
-* [ClusterWrap](https://github.com/GFleishman/ClusterWrap) - Library for running Dask on the Janelia cluster
-* [dask-janelia](https://github.com/JaneliaSciComp/dask-janelia) - Library for running Dask on the Janelia cluster
 * [FishSpot](https://github.com/GFleishman/fishspot) - Fully automated PSF estimation and spot detection for punctate data (e.g. FISH spots)
 * [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 
