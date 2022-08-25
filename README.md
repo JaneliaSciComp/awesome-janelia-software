@@ -14,6 +14,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [FlyEM](https://github.com/janelia-flyem)
 * [FlyEM NeuPrint](https://github.com/connectome-neuprint)
 * [Funkey Lab](https://github.com/funkey)
+* [Johnson Lab](https://github.com/JohnsonLabJanelia)
 * [Karpova Lab](https://github.com/Karpova-Lab)
 * [Preibisch Lab](https://github.com/PreibischLab)
 * [Reiser Lab](https://github.com/reiserlab)
