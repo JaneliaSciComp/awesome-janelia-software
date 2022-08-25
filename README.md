@@ -103,7 +103,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [Stitching Spark](https://github.com/saalfeldlab/stitching-spark) - Reconstruct large images from overlapping tiles on a Spark cluster
 
 
-## Janelia site-specific Software
+## Janelia Site-specific Software
 
 *Packages that are intended to run with access to Janelia's internal network, but could be modified to work elsewhere*
 
