@@ -137,8 +137,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 *Containerized analysis pipelines that run anywhere using the [Nextflow](https://www.nextflow.io) workflow system*
 
 * [EASI-FISH Pipeline](https://github.com/JaneliaSciComp/multifish) - Spatial transcriptomics using the EASI-FISH protocol
-* [ExM Pipeline](https://github.com/JaneliaSciComp/expansion-microscopy-pipeline) - Pipeline for analyzing ExM data with neuron/synapse segmentation
-* [Nextflow Spark](https://github.com/JaneliaSciComp/nextflow-spark) - Include Spark clusters as part of a Nextflow pipeline
+* [ExLLSM Circuit Reconstruction Pipeline](https://github.com/JaneliaSciComp/exllsm-circuit-reconstruction) - Pipeline for analyzing ExM data with neuron/synapse segmentation
+* [Nextflow Spark](https://github.com/JaneliaSciComp/nextflow-spark) - Spin up transient Spark clusters as part of a Nextflow pipeline
+* [Nextflow Dask](https://github.com/JaneliaSciComp/nextflow-dask) - Spin up transient Dask clusters as part of a Nextflow pipeline
 
 
 ## Python Libraries
