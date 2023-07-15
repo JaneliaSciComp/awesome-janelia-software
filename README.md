@@ -38,6 +38,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [DVID](https://dvid.io) - Connectomics data service supporting branched versioning of data 
 * [Clio](https://github.com/clio-janelia) - Connectomics website with a serverless data API service
+* [Web H5J Loader](https://github.com/JaneliaSciComp/web-h5j-loader) - Lets web applications load H5J data efficiently using WASM
 
 
 ## End-User Applications
@@ -149,6 +150,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 * [BigStream](https://github.com/GFleishman/bigstream) - Distributed piecewise affine and deformable alignment for big 3D datasets
 * [CircuitSeeker](https://github.com/GFleishman/CircuitSeeker) - Distributed complex alignment tasks for big 4D datasets
 * [FishSpot](https://github.com/GFleishman/fishspot) - Fully automated PSF estimation and spot detection for punctate data (e.g. FISH spots)
+* [Python Dist Demo](https://github.com/JaneliaSciComp/python-dist-demo) - Examples of bundling Python scripts and dependencies into execultables for easy sharing
 * [xarray-multiscale](https://github.com/JaneliaSciComp/xarray-multiscale) - Library for generating multiscale pyramids with Dask
 
 
@@ -158,8 +160,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 
 * [Blender Spherical Video](https://github.com/JaneliaSciComp/blender-spherical-video) - Scripts for rendering 360-degree spherical videos in Blender
 * [Janelia Unity Toolkit](https://github.com/JaneliaSciComp/janelia-unity-toolkit) - Unity game engine packages enabling animal studies in VR
-* [neuVid](https://github.com/connectome-neuprint/neuVid) - Generate connectome videos from high-level descriptions using Blender
+* [neuVid](https://github.com/connectome-neuprint/neuVid) - Generate biology videos from high-level descriptions using Blender and VVDViewer
 * [VVD Viewer](https://github.com/JaneliaSciComp/VVDViewer) - Interactive 3D volume viewer for large microscopy data
+* [Web Vol Viewer](https://github.com/JaneliaSciComp/web-vol-viewer) - Direct volume rendering in a browser using WebGL 2
 
 
 ## License
