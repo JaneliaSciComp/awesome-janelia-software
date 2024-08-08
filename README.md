@@ -4,6 +4,8 @@
 
 A curated list of awesome software actively maintained at Janelia. Inspired by various [awesome](https://github.com/sindresorhus/awesome) lists.
 
+You can also browse Janelia software on the [Janelia OSSI Website](https://ossi.janelia.org).
+
 ### Contributing
 
 Please read the [contribution guidelines](CONTRIBUTING.md).
