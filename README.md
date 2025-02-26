@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md).
 ### GitHub Organizations
 
 * [Branson Lab](https://github.com/kristinbranson)
+* [CellMap](https://github.com/janelia-cellmap)
 * [FlyEM](https://github.com/janelia-flyem)
 * [FlyEM NeuPrint](https://github.com/connectome-neuprint)
 * [Funkey Lab](https://github.com/funkey)
